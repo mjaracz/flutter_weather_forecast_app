@@ -1,4 +1,4 @@
-# forecast_migrations
+# forecast
 
 A new Flutter project.
 
