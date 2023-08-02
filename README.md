@@ -1,6 +1,7 @@
-# forecast
+# Weather forecast mobile application
 
-A new Flutter project.
+A flutter project contains an example of localization implementation.
+The project handles weather forecast functionality using data from openweathermap.org free API.
 
 ## Getting Started
 
